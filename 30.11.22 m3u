@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=\"https://archive.org/download/tvlogos/Adult%20XXX.png\" group-title=\"XXX\",XXX: ADULT 01
+#EXTINF:-1,ADULT 01,  "tvg-logo=\"https://archive.org/download/tvlogos/Adult%20XXX.png\" 
 http://fuzzyunicorns.net:80/uFbrK9uUN/81qh5S2aF/586716
 #EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX: ADULT 02\" tvg-logo=\"https://archive.org/download/tvlogos/Adult%20XXX.png\" group-title=\"XXX\",XXX: ADULT 02
 http://fuzzyunicorns.net:80/uFbrK9uUN/81qh5S2aF/586717
